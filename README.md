@@ -1,0 +1,2 @@
+# CrzBinChecker
+Script termux
